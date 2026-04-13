@@ -1,5 +1,8 @@
 <template>
-  <div class="min-h-screen">
-    <RouterView />
-  </div>
+  <NavBar />
+  <router-view />
 </template>
+
+<script setup>
+import NavBar from './components/NavBar.vue'
+</script>

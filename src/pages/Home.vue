@@ -7,7 +7,7 @@
       <!-- Badge -->
       <div class="badge">1200+ titles in the database</div>
 
-      <!-- Title -->
+      <!-- Title :)-->
       <h1 class="title">
         DISCOVER YOUR NEXT<br />
         <span>OBSESSION</span>
